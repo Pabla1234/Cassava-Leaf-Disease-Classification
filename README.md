@@ -122,7 +122,7 @@ This assignment contains the following areas:
 Note also that all Jupter Notebooks were loaded into Google Collaboratory to take advantage of GPU throughput to speed the training of the CNN.
 <br>
 <pre>
-Contributors : <a href=https://github.com/Lwhieldon>Lee Whieldon</a>
+Contributors : <a href=https://github.com/Pabla1234>Gurkirat Singh</a>
 </pre>
 
 <pre>
