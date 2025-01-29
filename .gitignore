@@ -1,0 +1,8 @@
+baseline_model.h5
+kaggle.json
+.ipynb_checkpoints/
+__pycache__
+.tmp.drivedownload/
+cassava-leaf-disease-classification/
+cassava-leaf-disease-classification.zip
+*.pdf
